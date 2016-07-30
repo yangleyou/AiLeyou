@@ -30,3 +30,5 @@ proguard/
 AiLeyou.iml
 app/libs/
 app/src/main/res/drawable/
+libs/
+src/main/res/drawable/
