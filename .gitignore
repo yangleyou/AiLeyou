@@ -24,4 +24,9 @@ proguard/
  
 # Log Files
 *.log
- 
+
+.idea/libraries/
+.idea/workspace.xml
+AiLeyou.iml
+app/libs/
+app/src/main/res/drawable/
